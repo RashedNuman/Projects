@@ -1,5 +1,5 @@
 """
-Description : Automates entering Zoom lectures for your lazy ass
+Description : Automates Joining Zoom meetings
 
 Language : Python 3.8.7
 
@@ -51,7 +51,7 @@ def convert24(s, new_timing = ""):
 def join_lecture(code):
 
     """
-    DOESNT RETURN SHIT ONLY EXECUTES
+    put this later
     """
 
     if len(code) > 11: # link
