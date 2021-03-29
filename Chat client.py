@@ -1,5 +1,5 @@
 """
-                    Scuffed Whatsapp Client v.04
+                    Chat Client v.04
 
                     @author : Rashed Alnuman
 
