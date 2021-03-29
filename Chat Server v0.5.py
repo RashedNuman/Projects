@@ -1,5 +1,5 @@
 """
-                    Scuffed Whatsapp Server v.04
+                    Chat Server v.04
 
                     @author : Rashed Alnuman
 
